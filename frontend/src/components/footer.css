@@ -1,0 +1,10 @@
+.small-image {
+    width: 100%;
+  max-width: 100px;
+  height: auto; /* Adjust the max-width as needed */
+  }
+  ul.text-slate-500 li:hover {
+    color: #333; /* Change to desired hover color */
+    cursor: pointer; /* Change to desired cursor type */
+  }
+  
